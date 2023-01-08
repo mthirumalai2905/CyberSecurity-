@@ -1,0 +1,9 @@
+git clone https://github.com/jseidl/GoldenEye.git
+
+cd GoldenEye 
+
+ls 
+
+./goldeneye.py 
+
+./goldeneye.py http://192.168.0.233:80/ -s 10 -m random
